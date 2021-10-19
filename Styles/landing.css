@@ -134,7 +134,7 @@ footer {
     height: 20px;
   }
   .row {
-    height: 70vh;
+    height: 80vh;
   }
   .number {
     margin-top: 5%;
@@ -144,7 +144,7 @@ footer {
   }
   .swapBoxContent {
     position: absolute;
-    top: 70%;
+    top: 75%;
   }
   .swapBoxImage {
     position: absolute;
